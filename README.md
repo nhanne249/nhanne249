@@ -53,27 +53,11 @@
 <!-- dark snake -->
 ![nhanne249's github activity graph](https://raw.githubusercontent.com/nhanne249/nhanne249/output/github-contribution-grid-snake-dark.svg)
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 <!--   grid-snake ![](https://github.com/nhanne249/nhanne249/blob/output/github-contribution-grid-snake.svg) -->
-
-
-<!--   skyline 
-<a href="https://skyline.github.com/nhanne249/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/nhanne249-->
-
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=nhanne249" width="auto"></img>
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/nhanne249-->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nhanne249&show-other-skills=true" width="auto"></img>
-
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/nguyenngovunhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/nhanne249/nhanne249/master/assets/linkedin.svg" alt="nhanne249" height="30" width="30" /></a>
 <a href="mailto:vunhan.contact@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/nhanne249/nhanne249/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
 <div align="center">
@@ -83,12 +67,6 @@
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhanne249" alt="nhanne249" /></a>
 </p>
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-
-
 
 
 
