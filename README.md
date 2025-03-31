@@ -3,7 +3,8 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/nhanne249/nhanne249"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/nhanne249/nhanne249"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/nhanne249/nhanne249"><img src="https://img.shields.io/badge/Javascript-blue.svg"></a>
+    <a href="https://github.com/nhanne249/nhanne249"><img src="https://img.shields.io/badge/Typescript-blue.svg"></a>
     <a href="https://github.com/nhanne249/nhanne249/graphs/contributors"><img src="https://img.shields.io/github/contributors/nhanne249/nhanne249?color=blue"></a>
     <a href="https://github.com/nhanne249/nhanne249/stargazers"><img src="https://img.shields.io/github/stars/nhanne249/nhanne249.svg?logo=github"></a>
     <a href="https://github.com/nhanne249/nhanne249/network/members"><img src="https://img.shields.io/github/forks/nhanne249/nhanne249.svg?color=blue&logo=github"></a>
