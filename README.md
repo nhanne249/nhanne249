@@ -37,7 +37,7 @@
 | ![nhanne249's github stats](https://github-readme-stats.vercel.app/api?username=nhanne249&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nhanne249&theme=radical&layout=compact) |
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nhanne249"></img>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nhanne249"></img></p>
 
 <!--   green snake -->
 ![nhanne249's github activity graph](https://raw.githubusercontent.com/nhanne249/nhanne249/output/github-contribution-grid-snake.svg)
@@ -45,12 +45,12 @@
 ![nhanne249's github activity graph](https://raw.githubusercontent.com/nhanne249/nhanne249/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
-![](./github-metrics.svg)
+<p align="center">![](./github-metrics.svg)</p>
 <!--   grid-snake ![](https://github.com/nhanne249/nhanne249/blob/output/github-contribution-grid-snake.svg) -->
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://www.linkedin.com/in/nguyenngovunhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/nhanne249/nhanne249/master/assets/linkedin.svg" alt="nhanne249" height="30" width="30" /></a>
-<a href="mailto:vunhan.contact@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/nhanne249/nhanne249/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/nguyenngovunhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/nhanne249/nhanne249/main/assets/linkedin.svg" alt="nhanne249" height="30" width="30" /></a>
+<a href="mailto:vunhan.contact@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/nhanne249/nhanne249/main/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 <div align="center">
