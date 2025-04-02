@@ -69,7 +69,7 @@ jobs:
       - name: Update apt-get
         run: apt-get update
 
-      - name: Install packages
+      - name: Install necessary packages
         run: |
           apt-get install -y wget gnupg ca-certificates libgconf-2-4
           wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add -
