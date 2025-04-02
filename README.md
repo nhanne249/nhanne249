@@ -45,7 +45,7 @@
 ![nhanne249's github activity graph](https://raw.githubusercontent.com/nhanne249/nhanne249/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
-<p align="center">![](./github-metrics.svg)</p>
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/nhanne249/nhanne249/main/github-metrics.svg" alt="nhanne249" height="30" width="30" /></p>
 <!--   grid-snake ![](https://github.com/nhanne249/nhanne249/blob/output/github-contribution-grid-snake.svg) -->
 **📫 How to Reach me:**
 <p align="left">
