@@ -30,9 +30,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-
-<!--   green snake -->
-![nhanne249's github activity graph](https://raw.githubusercontent.com/nhanne249/nhanne249/output/github-contribution-grid-snake.svg)
+![](./profile-3d-contrib/profile-custom-rainbow.svg)
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -41,6 +39,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhanne249"></img>
 
+<!--   green snake -->
+![nhanne249's github activity graph](https://raw.githubusercontent.com/nhanne249/nhanne249/output/github-contribution-grid-snake.svg)
 <!-- dark snake -->
 ![nhanne249's github activity graph](https://raw.githubusercontent.com/nhanne249/nhanne249/output/github-contribution-grid-snake-dark.svg)
 
