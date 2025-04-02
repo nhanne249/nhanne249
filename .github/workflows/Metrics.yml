@@ -1,10 +1,8 @@
 name: Metrics
 
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -64,6 +62,33 @@ jobs:
           body: "This PR updates the metrics."
           labels: "metrics"
           base: main
+
+      - name: Set file executable
+        run: chmod +x /metrics/source/app/action/index.mjs
+
+      - name: Update apt-get
+        run: apt-get update
+
+      - name: Install packages
+        run: |
+          apt-get install -y wget gnupg ca-certificates libgconf-2-4
+          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add -
+          sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+          apt-get update
+          apt-get install -y google-chrome-stable fonts-ipafont-gothic fonts-wqy-zenhei fonts-thai-tlwg fonts-kacst fonts-freefont-ttf libxss1 libx11-xcb1 libxtst6 lsb-release --no-install-recommends
+          apt-get install -y curl unzip
+          curl -fsSL https://deno.land/x/install/install.sh | DENO_INSTALL=/usr/local sh
+          apt-get install -y ruby-full git g++ cmake pkg-config libssl-dev
+          apt-get install -y python3
+          apt-get install -y build-essential patch ruby-dev zlib1g-dev liblzma-dev
+          gem install licensed
+          rm -rf /var/lib/apt/lists/*
+
+      - name: Install npm packages
+        run: npm ci
+
+      - name: Build project
+        run: npm run build
 
       - name: Build Docker Image
         run: |
