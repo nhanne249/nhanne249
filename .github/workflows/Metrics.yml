@@ -80,7 +80,8 @@ jobs:
           curl -fsSL https://deno.land/x/install/install.sh | DENO_INSTALL=/usr/local sh
           apt-get install -y ruby-full git g++ cmake pkg-config libssl-dev libxml2-dev libxslt-dev
           apt-get install -y python3
-          apt-get install -y build-essential patch ruby-dev zlib1g-dev liblzma-dev
+          apt-get install -y build-essential patch ruby-dev zlib1g-dev liblzma-dev xz-utils
+          gem install nokogiri -- --use-system-libraries
           gem install licensed
           rm -rf /var/lib/apt/lists/*
 
